@@ -76,12 +76,36 @@ Header file > header code inclusion > main functions > external functions > retu
 
 ## Operators in c
 
-### Arithmetic `+` `-` `/` `*`
+### Arithmetic `+` `-` `/` `*` `%`
 
-### Logical `==` `!=` `>` `>=` `<` `<=` `&&` `||`
+### Logical `&&` `!` `||`
+
+### In/de-crement `++` `--`
+
+### bitwise
 
 ### Ternary `condition ? if_true : if_false`
 
 
+
+
 ---
 ## Format S
+
+
+
+linker - header system files + user defined 
+preprocessor > compiler .i> assembler .obj> linker
+
+
+LOADER - loading into main memory RAM
+ADD.exe
+then executer into CPU
+
+
+main.c
+PREPROCESSOR - 
+COMPILER     - > obj
+ASSEMBLER    - 
+LINKER       - 
+LOADER       - 
