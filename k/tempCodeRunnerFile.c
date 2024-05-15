@@ -1,4 +1,3 @@
-printf("%d", a & b);
-    // printf("%d", a | b);
-    // printf("%d", ab);
-    // printf("%d", a - b);
+char a[50];
+    // scanf("%s", &a); //%[^\n]s
+    // printf("%s", a);

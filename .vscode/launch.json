@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/kirut/Desktop/training-c/k",
-      "program": "c:/Users/kirut/Desktop/training-c/k/build/Debug/outDebug",
+      "cwd": "c:/Users/kirut/Desktop/training-c",
+      "program": "c:/Users/kirut/Desktop/training-c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
