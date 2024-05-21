@@ -150,3 +150,9 @@ memory
 0 -             2
 0 -             1
 a - 2,147,483,647  
+
+
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://d.tw93.fun/images/wakatime_weekly_language_stats.svg">
